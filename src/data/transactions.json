@@ -1,0 +1,103 @@
+{
+    "cardLimit": 1500,
+    "available": 1482.7,
+    "transactions": [
+{
+    "id": "1",
+    "type": "Credit",
+    "amount": 14.06,
+    "name": "Apple",
+    "description": "Card number used",
+    "date": "2025-04-28",
+    "authorizedUser": "Diane",
+    "pending": true
+  },
+  {
+    "id": "2",
+    "type": "Payment",
+    "amount": 174.0,
+    "name": "Paypal",
+    "description": "JPMorgan Chase Bank National...",
+    "date": "2025-04-27",
+    "pending": false
+  },
+  {
+    "id": "3",
+    "type": "Credit",
+    "amount": 32.4,
+    "name": "Target",
+    "description": "Card use",
+    "date": "2025-04-26",
+    "authorizedUser": "Diane",
+    "pending": false
+  },
+  {
+    "id": "4",
+    "type": "Credit",
+    "amount": 50.0,
+    "name": "Target",
+    "description": "Card number used",
+    "date": "2025-04-25",
+    "authorizedUser": "Diane",
+    "pending": false
+  },
+  {
+    "id": "5",
+    "type": "Payment",
+    "amount": 200.0,
+    "name": "Paypal",
+    "description": "From JPMorgan Chase Bank National...",
+    "date": "2025-04-24",
+    "pending": false
+  },
+  {
+    "id": "6",
+    "type": "Credit",
+    "amount": 15.0,
+    "name": "Target",
+    "description": "Card number used",
+    "date": "2025-04-23",
+    "authorizedUser": "Diane",
+    "pending": false
+  },
+  {
+    "id": "7",
+    "type": "Credit",
+    "amount": 45.0,
+    "name": "Target",
+    "description": "Card number used",
+    "date": "2025-04-22",
+    "authorizedUser": "Diane",
+    "pending": false
+  },
+  {
+    "id": "8",
+    "type": "Payment",
+    "amount": 100.0,
+    "name": "Paypal",
+    "description": "From JPMorgan Chase Bank National...",
+    "date": "2025-04-21",
+    "pending": false
+  },
+  {
+    "id": "9",
+    "type": "Credit",
+    "amount": 25.0,
+    "name": "Target",
+    "description": "Card number used",
+    "date": "2025-04-20",
+    "authorizedUser": "Diane",
+    "pending": false
+  },
+  {
+    "id": "10",
+    "type": "Credit",
+    "amount": 10.0,
+    "name": "Target",
+    "description": "Card number used",
+    "date": "2025-04-19",
+    "authorizedUser": "Diane",
+    "pending": false
+  }
+    ]
+  }
